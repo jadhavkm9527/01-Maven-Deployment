@@ -37,6 +37,15 @@ http://maven.apache.org/xsd/maven-v4_0_0.xsd">
 
   <build>
     <finalName>01-MavenWeb_app</finalName>
-  </build>
+
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <version>3.4.0</version>
+        </plugin>
+    </plugins>
+
+</build>
 
 </project>
