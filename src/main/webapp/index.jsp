@@ -114,10 +114,10 @@ button:hover{
 
 <div class="container">
 
-<div class="logo">💳 JKPAY UPI</div>
+<div class="logo">JKPAY UPI</div>
 
 <div class="tagline">
-Fast • Secure • Trusted Payments
+Fast  Secure  Trusted Payments
 </div>
 
 <h2>Payment Portal</h2>
@@ -130,7 +130,7 @@ Fast • Secure • Trusted Payments
 <label>Card Number</label>
 <input type="text" name="card" placeholder="XXXX XXXX XXXX XXXX" required>
 
-<label>Amount (₹)</label>
+<label>Amount</label>
 <input type="number" name="amount" placeholder="Enter Amount" required>
 
 <label>Payment Method</label>
@@ -145,17 +145,17 @@ Fast • Secure • Trusted Payments
 </select>
 
 <button type="submit">
-Pay Now ₹
+Pay Now
 </button>
 
 </form>
 
 <div class="security">
-🔒 100% Secure Payment Gateway
+100% Secure Payment Gateway
 </div>
 
 <div class="footer">
-© 2026 JKPAY UPI | Powered by JK Tech
+2026 JKPAY UPI | Powered by JK Tech
 </div>
 
 </div>
